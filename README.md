@@ -1,6 +1,7 @@
 # plagbench
 
-Repository of the paper "Do Language Models Understand and Detect Plagiarism?", NAACL 2025. 
+Repository of the paper "PlagBench: Exploring the Duality of Large Language Models in
+Plagiarism Generation and Detection", NAACL 2025. 
 
 - LLM-based plagiarism generation:  ``plagiarism_generation.ipynb``
 - Automatic paraphrase and summary evaluation : ``paraphrase_summary_eval.ipynb``
